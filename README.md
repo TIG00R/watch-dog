@@ -17,8 +17,6 @@
 - Recursive scan under a path you choose  
 - Timestamps and scan cycle in each log line  
 - On Windows, optional **owner** hint for updated files (best-effort ACL lookup via PowerShell)  
-- ASCII banner loaded from `ascii_art.txt` next to the script  
-
 ---
 
 ## Installation
@@ -53,7 +51,6 @@ On Linux or macOS:
 ```bash
 python watch-dog.py /home/you/projects/something
 ```
-
 ---
 
 
