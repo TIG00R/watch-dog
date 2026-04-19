@@ -8,10 +8,6 @@
   <em>A small directory watcher — refactored from very old code and published for fun, not as a production tool.</em>
 </p>
 
-<p align="center">
-  <sub>This repo used to describe a broader &quot;Tiger&quot; security-toolkit idea; the <strong>current codebase</strong> in this tree is only the <strong>watch-dog</strong> watcher.</sub>
-</p>
-
 ---
 
 ## What it does
@@ -21,8 +17,6 @@
 - Recursive scan under a path you choose  
 - Timestamps and scan cycle in each log line  
 - On Windows, optional **owner** hint for updated files (best-effort ACL lookup via PowerShell)  
-- ASCII banner loaded from `ascii_art.txt` next to the script  
-
 ---
 
 ## Installation
@@ -57,35 +51,8 @@ On Linux or macOS:
 ```bash
 python watch-dog.py /home/you/projects/something
 ```
-
 ---
 
-## Output / screenshots
-
-<!-- Add your own terminal screenshots below. -->
-
-**Project logo:**
-
-<p align="center">
-  <img src="logo.png" alt="watch_dog picture" width="480" />
-</p>
-
-**Your screenshots** *(add Markdown image links here):*
-
-<!-- ![Example run](docs/screenshot.png) -->
-
----
-
-## Files
-
-| File | Role |
-|------|------|
-| `watch-dog.py` | Main script |
-| `ascii_art.txt` | Banner art printed at startup |
-| `logo.png` | Repo / README branding |
-| `requirements.txt` | Dependency notes (stdlib-only) |
-
----
 
 ## License
 
