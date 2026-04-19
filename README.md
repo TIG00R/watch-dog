@@ -60,32 +60,6 @@ python watch-dog.py /home/you/projects/something
 
 ---
 
-## Output / screenshots
-
-<!-- Add your own terminal screenshots below. -->
-
-**Project logo:**
-
-<p align="center">
-  <img src="logo.png" alt="watch_dog picture" width="480" />
-</p>
-
-**Your screenshots** *(add Markdown image links here):*
-
-<!-- ![Example run](docs/screenshot.png) -->
-
----
-
-## Files
-
-| File | Role |
-|------|------|
-| `watch-dog.py` | Main script |
-| `ascii_art.txt` | Banner art printed at startup |
-| `logo.png` | Repo / README branding |
-| `requirements.txt` | Dependency notes (stdlib-only) |
-
----
 
 ## License
 
