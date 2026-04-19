@@ -8,10 +8,6 @@
   <em>A small directory watcher — refactored from very old code and published for fun, not as a production tool.</em>
 </p>
 
-<p align="center">
-  <sub>This repo used to describe a broader &quot;Tiger&quot; security-toolkit idea; the <strong>current codebase</strong> in this tree is only the <strong>watch-dog</strong> watcher.</sub>
-</p>
-
 ---
 
 ## What it does
