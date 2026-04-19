@@ -1,0 +1,5 @@
+# watch_dog uses only the Python standard library (no pip packages required).
+# Use Python 3.8 or newer.
+#
+# Optional: pin a local interpreter
+# python_requires >= 3.8
