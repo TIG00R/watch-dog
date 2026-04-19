@@ -52,8 +52,3 @@ On Linux or macOS:
 python watch-dog.py /home/you/projects/something
 ```
 ---
-
-
-## License
-
-Add a license if you publish this repo (e.g. MIT). Until then, all rights reserved unless you say otherwise.
